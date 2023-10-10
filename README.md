@@ -6,6 +6,10 @@
 
 **2015 ISE_grad** 
 
+![report](https://img.shields.io/badge/area-5073(cycle=10)-red?style=flat-square) ![report](https://img.shields.io/badge/time-23,508ns-blue?style=flat-square) ![report](https://img.shields.io/badge/cycle_time-10ns-green?style=flat-square)
+
+**2015 ISE_grad** 
+
 ![report](https://img.shields.io/badge/area-93153(cycle=50)-red?style=flat-square) ![report](https://img.shields.io/badge/time-26,242,450ns-blue?style=flat-square) ![report](https://img.shields.io/badge/cycle_time-50ns-green?style=flat-square)
 
 **2016 LBP_grad** 
